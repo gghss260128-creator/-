@@ -1,0 +1,6 @@
+{
+  "name": "기체 분자 구출 작전 - 중학 과학 게임",
+  "description": "보일 법칙, 샤를 법칙, 기체 확산 개념을 활용해 폭발 위기의 연구소를 탈출하는 중학교 1학년 과학 액션 퍼즐 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
